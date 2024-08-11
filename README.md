@@ -4,6 +4,9 @@
 [![Documentation Status](https://readthedocs.org/projects/abstar/badge/?version=latest)](https://abstar.readthedocs.io/en/latest/?badge=latest)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
+# 🎬 YouTube
+[![Video Label](images/thumbnail.png.jpg)](https://youtu.be/SjIGS1Dj_i8?si=1k-NJfCjzg9f1mHP)
+
 
 # ✨ Introduction
 Recent studies have demonstrated that microbial DNA, which is typically absent from the blood, can be detected in patients with non-bacterial infectious diseases such as cancer. These findings indicate a potential association between the presence of specific microbes and certain diseases ([_Poore_ et al., Nature 2020](https://doi.org/10.1038/s41586-020-2095-1) ). The study revealed that low levels of foreign microbial DNA in the blood could serve as predictors of disease in patients. This ability to predict diseases based on the presence of specific microbes suggests that conditions might be diagnosed through simple liquid biopsies, circumventing the need for invasive tissue biopsies.
